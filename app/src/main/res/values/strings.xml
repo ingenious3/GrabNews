@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Grab News</string>
+    <string name="search">Search</string>
+    <string name="request_failed">Server request failed!</string>
+    <string name="no_results">Opps, no articles to show.</string>
+    <string name="empty_state_text">No news articles to show</string>
+    <string name="error_loading_news_text">Error fetching news data - working offline</string>
 </resources>

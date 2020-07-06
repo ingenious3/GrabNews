@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="news_article_item_card_height">280dp</dimen>
+    <dimen name="news_article_item_image_height">180dp</dimen>
+    <dimen name="news_article_item_title_margin">16dp</dimen>
+    <dimen name="news_article_item_title_text_size">16sp</dimen>
+    <dimen name="news_article_item_date_text_size">12sp</dimen>
+    <dimen name="news_article_item_date_margin_top">8dp</dimen>
+    <dimen name="news_article_item_date_margin_start_end">16dp</dimen>
+    <dimen name="news_article_item_desc_margin_bottom">16dp</dimen>
+    <dimen name="news_article_item_desc_margin_start_end">16dp</dimen>
+    <dimen name="news_article_item_desc_text_size">12sp</dimen>
+    <dimen name="news_article_item_card_margin">6dp</dimen>
+    <dimen name="news_article_item_card_margin_bottom">6dp</dimen>
+    <dimen name="news_article_item_card_elevation">6dp</dimen>
+    <dimen name="news_article_item_card_radius">6dp</dimen>
+</resources>
